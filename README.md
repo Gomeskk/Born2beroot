@@ -6,7 +6,7 @@ The **Born2beroot** project at 42 is designed to introduce students to system ad
 
 ## Concept
 
-The project involves installing and configuring Debian or AlmaLinux, ensuring that the system adheres to security best practices while meeting specific requirements, including:
+The project involves installing and configuring Debian or Rocky, ensuring that the system adheres to security best practices while meeting specific requirements, including:
 
   - **User and group management** 
 
@@ -14,7 +14,7 @@ The project involves installing and configuring Debian or AlmaLinux, ensuring th
 
   - **UFW (Uncomplicated Firewall) setup** 
 
-  - **SSH configuration**
+  - **SSH (Secure Shell) configuration** 
 
   - **LVM (Logical Volume Manager) partitioning**
 
